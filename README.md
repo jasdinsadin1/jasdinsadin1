@@ -1,0 +1,6 @@
+- 👋 Hi, I’m saad_jafor
+- 👀 I’m interested in C++
+- 🌱 I’m currently learning C++
+- 📫 How to reach me facebook.com/SaadAbuJafor
+- i do some mini project while i learn so it makes your way easier 
+- also i will upload my mini project here
