@@ -11,7 +11,7 @@ int main()
     cin >> name;
     cout << "Hello " <<name <<endl;
     cout << "\n";
-    cin.ignore();
+    cin.ignore(); // it will make next code ignore the previus input so it won't get messy if it's not here the error massage will show twice 
 
     //age calculating procces
 
